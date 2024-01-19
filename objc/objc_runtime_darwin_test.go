@@ -8,8 +8,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/ebitengine/purego"
-	"github.com/ebitengine/purego/objc"
+	"github.com/FaceChainTeam/purego"
+	"github.com/FaceChainTeam/purego/objc"
 )
 
 func ExampleAllocateClassPair() {

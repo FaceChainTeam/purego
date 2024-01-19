@@ -10,7 +10,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/ebitengine/purego"
+	"github.com/FaceChainTeam/purego"
 )
 
 func TestRegisterFunc_structArgs(t *testing.T) {

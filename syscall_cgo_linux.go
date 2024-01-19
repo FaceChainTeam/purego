@@ -8,7 +8,7 @@ package purego
 import (
 	_ "unsafe" // for go:linkname
 
-	"github.com/ebitengine/purego/internal/cgo"
+	"github.com/FaceChainTeam/purego/internal/cgo"
 )
 
 var syscall15XABI0 = uintptr(cgo.Syscall15XABI0)

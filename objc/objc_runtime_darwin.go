@@ -14,7 +14,7 @@ import (
 	"unicode"
 	"unsafe"
 
-	"github.com/ebitengine/purego"
+	"github.com/FaceChainTeam/purego"
 )
 
 // TODO: support try/catch?

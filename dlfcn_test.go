@@ -15,7 +15,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ebitengine/purego"
+	"github.com/FaceChainTeam/purego"
 )
 
 func TestSimpleDlsym(t *testing.T) {
